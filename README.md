@@ -21,6 +21,8 @@ I'm an aspiring Data Engineer
 * 🤝  I'm open to collaborating on designing and automating data pipeline
 * 🌱 I’m currently learning Python programming, airflow and many more tools related to Data Engineering
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
+
 ### Skills
 
 <p align="left">
