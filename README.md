@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 Hi there 👋 My name is Saud Ali
 =========================
 
-I'm an aspiring Data Engineer
+I'm an aspiring Cloud Data Engineer
 ----------------------------
 
 * 🌍  I'm based in Bangalore
